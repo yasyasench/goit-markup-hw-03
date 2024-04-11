@@ -1,0 +1,221 @@
+
+/* -----------------------HEADER------------------------- */
+.header {
+    background-color: #E7E9FC;
+
+}
+.logo {
+    color: #4d5ae5;
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17 ;
+    letter-spacing: 0.03em;
+    text-align: left;
+}
+.accent {
+    color: #2E2F42;
+}
+.menu-iteam {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #2e2f42;
+}
+
+.menu-iteam:hover,
+.menu-iteam:focus {
+    color: #404BBF;
+}
+.navigation{
+    font-style: normal
+}
+.navigation-iteam{
+    color: #434455;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #434455;
+}
+.navigation-iteam:hover,
+.navigation-iteam:focus {
+    color: #404BBF;
+}
+
+
+/* ------------------------------------------------ */
+
+/* -------------------------HERO----------------------- */
+.section-hero {
+    background-color: #2E2F42;
+    color: #ffffff ;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    text-align: center;
+}
+.hero-titel{
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+}
+.button-order{
+    color: inherit;
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+}
+.button-order:hover,
+.button-order:focus {
+    background-color: #404BBF;
+}
+/* ------------------------------------------------ */
+
+/* -----------------------SECTION-FEATURES------------------------- */
+.section-features {
+    background-color: #F4F4FD;
+    color: #434455;
+    font-family: "Roboto",sans-serif;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+.features-titel{
+    font-family:"Roboto", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.features-text{
+    color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+/* ------------------------------------------------ */
+
+/* -----------------------SECTION-TEAM------------------------- */
+.section-team{
+    background-color: #F4F4FD;
+}
+.team-iteam{
+    text-align: center;
+    background-color: #FFFFFF;
+}
+
+.team-titel{
+    line-height: 1.2;
+    color: #2e2f42;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+}
+.team-text{
+    line-height: 1.5;
+    text-transform: capitalize;
+    color: #434455;
+    letter-spacing: 0.02em;
+    font-size: 16px;
+    font-weight: 400;
+}
+/* ------------------------------------------------ */
+
+/* -----------------------SECTION-PORTFOLIO------------------------- */
+.portfolio-iteam {
+    text-align: left;
+    text-transform: capitalize;
+    color: #434455;
+    font-family: "Roboto", sans-serif;
+}
+
+.portfolio-titel{
+        font-family: "Roboto", sans-serif;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        text-align: left;
+        color: #2E2F42;
+}
+
+.portfolio-text{
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-weight: 400;
+}
+/* ------------------------------------------------ */
+
+/* -----------------------FOOTER------------------------- */
+footer {
+    background-color: #2E2F42;
+    color: #F4F4FD;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.accent-footer {
+    color: #F4F4FD;
+}
+.logo-footer{
+    color: #4d5ae5;
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-align: left;
+}
+
+
+/* ------------------------------------------------ */
+
+
+
+
+body{
+    color: #434455;
+    font-family: "Roboto", sans-serif;
+    background-color: #ffffff ;
+}
+
+
+
+.section-titel{
+    color:#2e2f42;
+     font-family: "Roboto", sans-serif;
+     font-size: 36px;
+     font-weight: 700;
+     line-height: 1.11;
+     letter-spacing: 0.02em;
+     text-align: center;
+    text-transform: capitalize;
+}
+
+
+ul {
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+ 
