@@ -189,10 +189,13 @@ img{
 }
 .visually-hidden{
     position: absolute;
-    clip: rect(0 0 0 0);
     width: 1px;
     height: 1px;
     margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
 }
 
 .section-features {
@@ -201,6 +204,7 @@ img{
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: left;
+    padding: 120px 0;
 }
 .features-titel{
     font-family:"Roboto", sans-serif;
@@ -307,6 +311,7 @@ img{
         color: #2E2F42;
         margin-top: 32px;
         margin-left: 16px;
+        margin-bottom: 8px
 }
 
 .portfolio-text{
